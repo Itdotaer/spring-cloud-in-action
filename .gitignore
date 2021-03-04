@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+.idea/
+eureka-consumer/src/test/
+eureka-consumer/target/
+eureka-provider/src/test/
+eureka-provider/target/
+eureka-server/.gitignore
+eureka-server/.mvn/
+eureka-server/src/
+msg-queue/src/main/resources/
+msg-queue/src/test/
+msg-queue/target/
+zuul-server/src/test/
+zuul-server/target/
